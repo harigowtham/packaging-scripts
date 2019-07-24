@@ -28,4 +28,4 @@ and Ubuntu.
 ### To maintain:
 
 * For a new Flavor, we need to edit the [package.sh](scripts/package.sh) by adding the    >  \new flavor and removing the obsolete one.
-*
+
